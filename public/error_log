@@ -1,0 +1,3 @@
+[13-Nov-2023 11:03:02 UTC] PHP Fatal error:  Cannot redeclare headers() (previously declared in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php:15) in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php on line 1474
+[13-Nov-2023 11:03:04 UTC] PHP Fatal error:  Cannot redeclare headers() (previously declared in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php:15) in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php on line 1474
+[13-Nov-2023 11:03:06 UTC] PHP Fatal error:  Cannot redeclare headers() (previously declared in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php:15) in /home/dxbitprojects/public_html/timex_web/app/Helpers/custom_helper.php on line 1474
